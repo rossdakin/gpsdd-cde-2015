@@ -727,6 +727,7 @@
 
 		#main p {
 			line-height: 1.5em;
+			text-align: left;
 		}
 
 		#main li {
